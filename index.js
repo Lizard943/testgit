@@ -12,3 +12,4 @@ obj.name = "Dũng";
 // obj = { name: 'Dũng' } // Error
 
 const oo = { name: "Dũng" };
+const test = { name: "Vương" };
